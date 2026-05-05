@@ -34,16 +34,15 @@ social-network-links:
   linkedin: arriaga-tlapa-brandon
 
 # ---- Footer ----
-footer-col:       "#0a0a0a"
-footer-text-col:  "#aaaaaa"
+footer-col:       "#050505"
+footer-text-col:  "#888888"
 footer-link-col:  "#4fc3f7"
 
 # ---- Colores generales ----
 page-col:        "#ffffff"
-text-col:        "#1a1a1a"
-link-col:        "#1565c0"
-hover-col:       "#0d47a1"
-
+text-col:        "#222222"  # Un gris muy oscuro cansa menos la vista que el negro absoluto
+link-col:        "#005bb5"  # Un azul más profesional y eléctrico
+hover-col:       "#003f7a"
 # ---- Posts / Blog ----
 paginate:           5
 paginate_path:      "/blog/page:num/"
