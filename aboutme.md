@@ -1,83 +1,68 @@
 ---
 layout: page
 title: Sobre mí
-subtitle: "Físico que habla el lenguaje de los datos — y de las máquinas"
+subtitle: "Físico que habla el lenguaje de los datos — y de las máquinas."
 ---
 
-## Perfil profesional
+> **Perfil Profesional**
+> Soy **Brandon Yahir Arriaga Tlapa**, físico de formación e ingeniero de Inteligencia Artificial y Datos por práctica. Trabajo en la intersección entre el rigor matemático y la aplicación tecnológica, combinando un marco de **pensamiento sistémico** con experiencia directa en la optimización de LLMs.
 
-Soy **Brandon Yahir Arriaga Tlapa**, físico de formación y científico de datos por práctica. Me gradué por alto rendimiento académico de la Licenciatura en Física de la BUAP, con especialización progresiva en Machine Learning, Inteligencia Artificial y análisis de datos aplicado.
-
-Mi formación en Física aportó algo que difícilmente se enseña en un curso de ML: la capacidad de modelar sistemas complejos, razonar bajo incertidumbre y construir soluciones desde primeros principios. Esa base, combinada con entrenamiento técnico especializado en herramientas y metodologías de Data Science, define mi perfil actual.
-
-Trabajo en la intersección entre el rigor matemático y la aplicación práctica — con interés particular en sistemas de ML bien fundamentados, evaluación de modelos y desarrollo orientado a resultados medibles.
+Mi formación como Físico me aportó la capacidad de modelar sistemas complejos y razonar desde primeros principios. Esa base me permite no solo implementar herramientas de Machine Learning, sino entender la arquitectura algorítmica y estadística detrás de ellas para construir soluciones robustas.
 
 ---
 
-## Experiencia profesional
+## 💻 Experiencia Profesional
 
-### LLM Specialist & ML Pipeline Engineer — Mercor *(nov 2025 – presente)*
+### LLM Specialist & ML Pipeline Engineer
+**Mercor (Remoto, USA)** | *Nov 2025 – Presente*
 
-Trabajo inmerso en los pipelines industriales de entrenamiento de modelos de lenguaje de frontera. Mi rol combina evaluación técnica de sistemas de IA con contribuciones directas al ciclo de entrenamiento:
+Trabajo inmerso en los pipelines industriales de entrenamiento de modelos de lenguaje de frontera, combinando la evaluación técnica profunda con contribuciones directas a la arquitectura de entrenamiento:
 
-- **RLHF y SFT (Fases 1–3):** Participación en pipelines de Reinforcement Learning from Human Feedback y Supervised Fine-Tuning para modelos de producción — generando datos de preferencia de alta calidad, escribiendo prompts de calibración y evaluando respuestas en dominios STEM, Safety y SWE.
-- **Evaluación y QC de modelos:** Promovido a roles de Reviewer y Quality Control — auditando y calibrando outputs de otros especialistas para garantizar la consistencia y calidad de los datos de entrenamiento a escala de plataforma.
-- **Red Teaming & Seguridad:** Diseño de metodologías de ataque adversarial sistemático (prompt injection, jailbreak simulation) para identificar vulnerabilidades en modelos de producción e informar políticas de alineación de IA.
-- **Dominio STEM:** Validación de razonamientos matemáticos y físicos generados por LLMs — evaluando consistencia lógica, corrección de derivaciones y precisión científica con estándares de revisión experta.
+* **Supervised Fine-Tuning (SFT) & RLHF:** Contribuciones de nivel experto en las tres fases de alineación. Generación de datos de preferencia, diseño de *prompts* de calibración y evaluación de *outputs* en dominios STEM, Safety y SWE.
+* **Control de Calidad (QC) & Auditoría:** Promovido a roles de *Reviewer* y *QC*, auditando métricas y outputs de otros especialistas para garantizar la calidad del set de entrenamiento a escala de plataforma.
+* **Red Teaming & AI Safety:** Ejecución de ataques adversariales sistemáticos (*prompt injection*, *jailbreaks*) para identificar vulnerabilidades y mejorar la alineación de seguridad en modelos de producción.
+* **Evaluación STEM Experta:** Validación de derivaciones matemáticas complejas, consistencia lógica y precisión científica en los procesos de razonamiento de los LLMs.
 
-### Data Analyst & Research Scientist — BUAP *(ene 2025 – dic 2025)*
+### Data Analyst & Research Scientist
+**BUAP** | *Ene 2025 – Dic 2025*
 
-- Diseño de pipelines ETL automatizados en Python para datasets de física experimental (+500K registros), reduciendo tiempos de preprocesamiento en un 40%.
-- Implementación de modelos ensemble (Random Forest, Gradient Boosting) para validación de hipótesis físicas a escala.
-- Dashboards ejecutivos y reportes técnicos para la dirección de investigación.
-
----
-
-## Habilidades técnicas
-
-**ML & Modelado estadístico:**
-Python (Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, Keras), Inferencia Bayesiana, Causal Inference, Monte Carlo, Series de Tiempo, Ensemble Learning, A/B Testing.
-
-**Métodos computacionales:**
-Optimización matemática, PDE/ODE, Modelado estadístico, Regresión, Optimización bajo restricciones.
-
-**Data Engineering & Cloud:**
-SQL, Diseño de pipelines ETL, Azure ML, Feature Engineering, MLflow, Docker, Git/GitHub.
-
-**LLMs & Generative AI:**
-RLHF, SFT, Prompt Engineering (CoT, ToT, few-shot), Evaluación de modelos, Red Teaming, Detección de sesgos, AI Safety.
-
-**Visualización:**
-Tableau, Power BI, Matplotlib, Seaborn, Plotnine.
-
-**Idiomas:** Español (nativo) · Inglés (C1 – Avanzado)
+* **Data Engineering:** Diseño de pipelines ETL automatizados en Python para procesar más de 500K registros de física experimental, reduciendo los tiempos de preprocesamiento en un 40%.
+* **Modelado Predictivo:** Implementación de modelos *ensemble* (Random Forest, Gradient Boosting) para la validación de hipótesis físicas a escala.
+* **Business Intelligence:** Desarrollo de *dashboards* y reportes técnicos para la toma de decisiones en la dirección de investigación.
 
 ---
 
-## Formación
+## 🛠️ Stack Tecnológico & Habilidades
 
-🎓 **Licenciatura en Física — Alto Rendimiento Académico**
-Benemérita Universidad Autónoma de Puebla · dic 2025
-*Modelado matemático, métodos Monte Carlo, sistemas PDE/ODE, estadística aplicada*
+| Categoría | Herramientas & Conceptos |
+| :--- | :--- |
+| **GenAI & LLMs** | RLHF, SFT, Prompt Engineering Avanzado (CoT, ToT), Red Teaming, Evaluación de Modelos, AI Safety. |
+| **Data Science & ML** | Python (Pandas, NumPy, Scikit-Learn, TensorFlow, Keras), Inferencia Bayesiana, Series de Tiempo, A/B Testing, Ensemble Learning. |
+| **Data Engineering** | SQL, Diseño de Pipelines ETL, Azure ML, Feature Engineering, Docker, Git/GitHub, OCR & Extracción Estructurada. |
+| **Matemáticas** | Pensamiento Sistémico, Métodos Monte Carlo, Optimización bajo restricciones, PDE/ODE, Modelado Estadístico. |
+| **Visualización** | Tableau, Power BI, Matplotlib, Seaborn. |
 
-📘 **Especialización: Machine Learning & Data Science**
-SciData · 2025–2026
-*Machine Learning, Deep Learning, Python para análisis de datos, Excel, SQL, Inferencia estadística, Power BI*
-
-📘 **Diplomado en Ciencia de Datos**
-BUAP · 2025
-*Machine Learning, Minería de datos, Analítica aplicada*
-
-📘 **SQL, Tableau & Certificación ML/AI Engineer** *(en curso)*
-DataCamp · 2025–presente
-*SQL avanzado, Tableau, fundamentos y certificación como ML/AI Engineer*
+**Idiomas:** Español · Inglés 
 
 ---
 
-## Búsqueda activa
+## 🎓 Formación & Credenciales
 
-Disponible para posiciones en **Ciencia de Datos, Ingeniería ML o Ingeniería de IA** — remotas o híbridas. Busco entornos donde el trabajo técnico tenga impacto real y donde haya espacio para seguir creciendo.
+* 🎓 **Licenciatura en Física** — *Benemérita Universidad Autónoma de Puebla (BUAP)* | 2025
+  * *Titulación por Alto Rendimiento Académico.*
+* 📜 **Diplomado en Ciencia de Datos** — *BUAP* | 2025
+  * *Minería de datos, Machine Learning y analítica aplicada.*
+* 📜 **Certificaciones en Ciencia de Datos** — *SciData* | 2025 – 2026
+  * *Deep Learning, Inferencia Estadística, SQL, Power BI.*
+* 🚀 **Track: ML/AI Engineer** — *DataCamp* | En curso
+  * *Especialización continua en metodologías y arquitecturas de Machine Learning.*
 
-Entrevistas disponibles en español e inglés.
+---
 
-📬 [tbyat.kdc@gmail.com](mailto:tbyat.kdc@gmail.com) · [LinkedIn](https://linkedin.com/in/arriaga-tlapa-brandon) · [GitHub](https://github.com/tbyatkdc)
+## 🎯 Búsqueda Activa & Proyectos
+
+Actualmente desarrollo proyectos aplicados (como pipelines *end-to-end* para clasificación y extracción inteligente de documentos), y estoy disponible para posiciones como **AI Engineer, Machine Learning Engineer o Data Scientist** (remotas o híbridas). 
+
+Busco entornos dinámicos donde la exigencia técnica sea alta, el trabajo impacte directamente en el producto y exista espacio para la innovación continua.
+
+📬 **[tbyat.kdc@gmail.com](mailto:tbyat.kdc@gmail.com)** · 💼 **[LinkedIn](https://linkedin.com/in/arriaga-tlapa-brandon)** · 🐙 **[GitHub](https://github.com/tbyatkdc)**
