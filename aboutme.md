@@ -4,13 +4,13 @@ title: Sobre mí
 subtitle: "Físico que habla el lenguaje de los datos — y de las máquinas"
 ---
 
-## ¿Quién soy?
+## Perfil profesional
 
-Soy **Brandon Yahir Arriaga Tlapa**, físico graduado con honores de la BUAP y especialista en Data Science, Machine Learning e Ingeniería de IA.
+Soy **Brandon Yahir Arriaga Tlapa**, físico de formación y científico de datos por práctica. Me gradué por alto rendimiento académico de la Licenciatura en Física de la BUAP, con especialización progresiva en Machine Learning, Inteligencia Artificial y análisis de datos aplicado.
 
-Mi trayectoria no empezó en un bootcamp — empezó derivando ecuaciones diferenciales, simulando sistemas físicos con métodos de Monte Carlo y modelando fenómenos complejos con herramientas computacionales. Esa base matemática y científica es la que hoy aplico para construir modelos predictivos robustos, pipelines de datos eficientes y sistemas de IA confiables.
+Mi formación en Física aportó algo que difícilmente se enseña en un curso de ML: la capacidad de modelar sistemas complejos, razonar bajo incertidumbre y construir soluciones desde primeros principios. Esa base, combinada con entrenamiento técnico especializado en herramientas y metodologías de Data Science, define mi perfil actual.
 
-Creo que el mejor Data Scientist no es el que conoce más librerías, sino el que **entiende profundamente por qué funcionan los modelos** — y cuándo fallan.
+Trabajo en la intersección entre el rigor matemático y la aplicación práctica — con interés particular en sistemas de ML bien fundamentados, evaluación de modelos y desarrollo orientado a resultados medibles.
 
 ---
 
@@ -56,24 +56,28 @@ Tableau, Power BI, Matplotlib, Seaborn, Plotnine.
 
 ## Formación
 
-🎓 **Licenciatura en Física — Graduado con Honores**
+🎓 **Licenciatura en Física — Alto Rendimiento Académico**
 Benemérita Universidad Autónoma de Puebla · dic 2025
-*Física Computacional, Monte Carlo, Sistemas PDE/ODE, Estadística Aplicada*
+*Modelado matemático, métodos Monte Carlo, sistemas PDE/ODE, estadística aplicada*
 
-📘 **Especialización Avanzada: Machine Learning & Data Analytics**
+📘 **Especialización: Machine Learning & Data Science**
 SciData · 2025–2026
-*Deep Learning, Azure ML, SQL Avanzado, Pipelines de Visualización*
+*Machine Learning, Deep Learning, Python para análisis de datos, Excel, SQL, Inferencia estadística, Power BI*
 
-📘 **Diplomado en Data Science**
+📘 **Diplomado en Ciencia de Datos**
 BUAP · 2025
-*Machine Learning, Data Mining, Analítica Avanzada*
+*Machine Learning, Minería de datos, Analítica aplicada*
+
+📘 **SQL, Tableau & Certificación ML/AI Engineer** *(en curso)*
+DataCamp · 2025–presente
+*SQL avanzado, Tableau, fundamentos y certificación como ML/AI Engineer*
 
 ---
 
-## Lo que busco
+## Búsqueda activa
 
-Oportunidades en **Data Science, ML Engineering o AI Engineering** donde pueda combinar mi formación matemática rigurosa con experiencia práctica en sistemas de IA. Me interesa especialmente trabajar en equipos donde los modelos importan de verdad — donde la diferencia entre un modelo bueno y uno excelente tiene consecuencias reales.
+Disponible para posiciones en **Ciencia de Datos, Ingeniería ML o Ingeniería de IA** — remotas o híbridas. Busco entornos donde el trabajo técnico tenga impacto real y donde haya espacio para seguir creciendo.
 
-Abierto a posiciones **remotas o híbridas**. Disponible para entrevistas en español e inglés.
+Entrevistas disponibles en español e inglés.
 
 📬 [tbyat.kdc@gmail.com](mailto:tbyat.kdc@gmail.com) · [LinkedIn](https://linkedin.com/in/arriaga-tlapa-brandon) · [GitHub](https://github.com/tbyatkdc)
