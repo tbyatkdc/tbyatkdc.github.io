@@ -4,9 +4,9 @@ title: Sobre mí
 subtitle: "Físico que habla el lenguaje de los datos — y de las máquinas."
 ---
 
-> **Perfil Profesional**
-> <br>
-> Soy **Brandon Yahir Arriaga Tlapa**, físico de formación e ingeniero de Inteligencia Artificial y Datos por práctica. Trabajo en la intersección entre el rigor matemático y la aplicación tecnológica, combinando un marco de **pensamiento sistémico** con experiencia directa en la optimización de LLMs.
+## 🧠 Perfil Profesional
+
+Soy **Brandon Yahir Arriaga Tlapa**, físico de formación e ingeniero de Inteligencia Artificial y Datos por práctica. Trabajo en la intersección entre el rigor matemático y la aplicación tecnológica, combinando un marco de **pensamiento sistémico** con experiencia directa en la optimización de LLMs.
 
 Mi formación como Físico (titulado por Alto Rendimiento Académico en la BUAP) me aportó la capacidad de modelar sistemas complejos y razonar desde primeros principios. Esa base me permite no solo implementar herramientas de Machine Learning, sino entender la arquitectura algorítmica y estadística detrás de ellas para construir soluciones robustas.
 
@@ -37,16 +37,12 @@ Trabajo inmerso en los pipelines industriales de entrenamiento de modelos de len
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
-| Categoría | Herramientas & Conceptos |
-| :--- | :--- |
-| **GenAI & LLMs** | RLHF, SFT, Prompt Engineering Avanzado (CoT, ToT), Red Teaming, Evaluación de Modelos, AI Safety. |
-| **Data Science & ML** | Python (Pandas, NumPy, Scikit-Learn, TensorFlow, Keras), Inferencia Bayesiana, Series de Tiempo, A/B Testing, Ensemble Learning. |
-| **Data Engineering** | SQL, Diseño de Pipelines ETL, Azure ML, Feature Engineering, Docker, Git/GitHub, OCR & Extracción Estructurada. |
-| **Matemáticas** | Pensamiento Sistémico, Métodos Monte Carlo, Optimización bajo restricciones, PDE/ODE, Modelado Estadístico. |
-| **Visualización** | Tableau, Power BI, Matplotlib, Seaborn. |
-{: .table .table-striped .table-hover }
-
-**Idiomas:** Español (Nativo) · Inglés (C1 Avanzado)
+* **GenAI & LLMs:** RLHF, SFT, Prompt Engineering Avanzado (CoT, ToT), Red Teaming, Evaluación de Modelos, AI Safety.
+* **Data Science & ML:** Python (Pandas, NumPy, Scikit-Learn, TensorFlow, Keras), Inferencia Bayesiana, Series de Tiempo, A/B Testing, Ensemble Learning.
+* **Data Engineering:** SQL, Diseño de Pipelines ETL, Azure ML, Feature Engineering, Docker, Git/GitHub, OCR & Extracción Estructurada.
+* **Matemáticas:** Pensamiento Sistémico, Métodos Monte Carlo, Optimización bajo restricciones, PDE/ODE, Modelado Estadístico.
+* **Visualización:** Tableau, Power BI, Matplotlib, Seaborn.
+* **Idiomas:** Español (Nativo) · Inglés (C1 Avanzado)
 
 ---
 
@@ -58,7 +54,7 @@ Trabajo inmerso en los pipelines industriales de entrenamiento de modelos de len
   * *Minería de datos, Machine Learning y analítica aplicada.*
 * 📜 **Certificaciones en Ciencia de Datos** — *SciData* | 2025 – 2026
   * *Deep Learning, Inferencia Estadística, SQL, Power BI.*
-* 🚀 **Track: ML/AI Engineer** — *DataCamp* | En curso
+* 🚀 **Track: ML/AI Engineer** — *DataCamp*
   * *Especialización continua en metodologías y arquitecturas de Machine Learning.*
 
 ---
