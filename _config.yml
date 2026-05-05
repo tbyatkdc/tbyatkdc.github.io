@@ -17,7 +17,6 @@ avatar: /img/profile.png  # <-- sube aquí tu foto (cuadrada, mínimo 400x400px)
 navbar-links:
   Sobre mí: aboutme
   Proyectos: projects
-  Blog: blog
   Contacto: contacto
 
 navbar-col:        "#0a0a0a"
