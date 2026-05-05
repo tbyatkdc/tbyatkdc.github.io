@@ -10,7 +10,7 @@ Estoy disponible para **posiciones remotas o híbridas** en Data Science, ML Eng
 
 📬 **Email:** [tbyat.kdc@gmail.com](mailto:tbyat.kdc@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/arriaga-tlapa-brandon](https://linkedin.com/in/arriaga-tlapa-brandon)
+💼 **LinkedIn:** [linkedin.com/in/arriaga-tlapa-brandon](https://www.linkedin.com/in/arriaga-brandon-byat/)
 
 🐙 **GitHub:** [github.com/tbyatkdc](https://github.com/tbyatkdc)
 
