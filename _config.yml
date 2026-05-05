@@ -11,7 +11,7 @@ baseurl: ""
 
 # Autor
 author: Brandon Yahir Arriaga Tlapa
-avatar: /img/IMG_4539.jpg  # <-- sube aquí tu foto (cuadrada, mínimo 400x400px)
+avatar: /img/profile.png  # <-- sube aquí tu foto (cuadrada, mínimo 400x400px)
 
 # ---- Navbar ----
 navbar-links:
@@ -25,7 +25,7 @@ navbar-text-col:   "#f0f0f0"
 navbar-border-col: "#1a1a2e"
 
 # ---- Página de inicio ----
-title-img: /img/IMG_4539.jpg
+title-img: /img/ml/ai.png
 
 # ---- Redes sociales ----
 social-network-links:
