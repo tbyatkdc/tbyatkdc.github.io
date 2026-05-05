@@ -48,13 +48,13 @@ Trabajo inmerso en los pipelines industriales de entrenamiento de modelos de len
 
 ## 🎓 Formación & Credenciales
 
-* 🎓 **Licenciatura en Física** — *Benemérita Universidad Autónoma de Puebla (BUAP)*  2025
+* 🎓 **Licenciatura en Física** — *Benemérita Universidad Autónoma de Puebla (BUAP)*  (2025)
   * *Titulación por Alto Rendimiento Académico.*
-* 📜 **Diplomado en Ciencia de Datos** — *BUAP* 2025
+* 📜 **Diplomado en Ciencia de Datos** — *BUAP* (2025)
   * *Minería de datos, Machine Learning y analítica aplicada.*
-* 📜 **Certificaciones en Ciencia de Datos** — *SciData*  2023 – 2026
+* 📜 **Certificaciones en Ciencia de Datos** — *SciData*  (2023 – 2026)
   * *Deep Learning, Inferencia Estadística, SQL, Power BI.*
-* 🚀 **Track: ML/AI Engineer** — *DataCamp*
+* 🚀 **Track Career: ML/AI Engineer** — *DataCamp*
   * *Especialización continua en metodologías y arquitecturas de Machine Learning.*
 
 ---
