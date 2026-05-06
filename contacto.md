@@ -18,4 +18,4 @@ Estoy disponible para **posiciones remotas o híbridas** en Data Science, ML Eng
 
 ---
 
-> Respondo en **español** e **inglés **. Tiempo de respuesta habitual: menos de 48 horas.
+> Respondo en **español** e **inglés**. Tiempo de respuesta habitual: menos de 48 horas.
