@@ -8,7 +8,7 @@ subtitle: "Físico que habla el lenguaje de los datos — y de las máquinas"
 
 Soy **Brandon Yahir Arriaga Tlapa**, físico de formación e ingeniero de Inteligencia Artificial y Machine Learning por práctica. Trabajo en la intersección entre el rigor matemático y la aplicación tecnológica, combinando un marco de **pensamiento sistémico** con experiencia directa en la optimización de LLMs.
 
-Mi formación como Físico (titulado por Alto Rendimiento Académico en la BUAP) me aportó la capacidad de modelar sistemas complejos y razonar desde primeros principios. Esa base me permite no solo implementar herramientas de Machine Learning, sino entender la arquitectura algorítmica y estadística detrás de ellas para construir soluciones robustas.
+Mi formación como Físico me aportó la capacidad de modelar sistemas complejos y razonar desde primeros principios. Esa base me permite no solo implementar herramientas de Machine Learning, sino entender la arquitectura algorítmica y estadística detrás de ellas para construir soluciones robustas.
 
 ---
 
@@ -19,8 +19,8 @@ Mi formación como Físico (titulado por Alto Rendimiento Académico en la BUAP)
 
 Trabajo inmerso en los pipelines industriales de entrenamiento de modelos de lenguaje de frontera, combinando la evaluación técnica profunda con contribuciones directas a la arquitectura de entrenamiento:
 
-* **Supervised Fine-Tuning (SFT) & RLHF:** Contribuciones de nivel experto en las tres fases de alineación. Generación de datos de preferencia, diseño de *prompts* de calibración y evaluación de *outputs* en dominios STEM, Safety y SWE.
-* **Control de Calidad (QC) & Auditoría:** Promovido a roles de *Reviewer* y *QC Senior*, auditando métricas y outputs de otros especialistas para garantizar la calidad del set de entrenamiento a escala de plataforma.
+* **Supervised Fine-Tuning (SFT) & RLHF:** Contribuciones de nivel experto en las tres fases de alineación. Generación de datos de preferencia, diseño de *prompts* de calibración y evaluación de *outputs* en dominios de Ciencia de Datos, STEM, Safety, aprendizaje automático y SWE.
+* **Control de Calidad (QC) & Auditoría:** Promovido a roles de *Reviewer* y *QC*, auditando métricas y outputs de otros especialistas para garantizar la calidad del set de entrenamiento a escala de plataforma.
 * **Red Teaming & AI Safety:** Ejecución de ataques adversariales sistemáticos (*prompt injection*, *jailbreaks*) para identificar vulnerabilidades y mejorar la alineación de seguridad en modelos de producción.
 * **Evaluación STEM Experta:** Validación de derivaciones matemáticas complejas, consistencia lógica y precisión científica en los procesos de razonamiento de los LLMs.
 
