@@ -17,7 +17,7 @@ Desarrollo de soluciones analíticas y modelos predictivos para la resolución d
 **Stack:** Python · Pandas · Scikit-Learn · Inferencia Estadística · Matplotlib/Seaborn
 
 ## Evaluación y Alineación de Modelos de Lenguaje (LLM)
-**Razonamiento Estructurado · Validación Estadística · AI Safety · STEM **
+**Razonamiento Estructurado · Validación Estadística · AI Safety · STEM**
 
 Desarrollo de marcos de evaluación para modelos de lenguaje de frontera, enfocados en la detección de fallos de razonamiento lógico y la consistencia en dominios técnicos de alta complejidad.
 
