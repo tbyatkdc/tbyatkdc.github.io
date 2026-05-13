@@ -2,26 +2,24 @@
 # CONFIGURACIÓN PRINCIPAL — Brandon Arriaga
 # Beautiful Jekyll Theme
 # =============================================
-
 title: Brandon Arriaga
-description: "Físico · Data Scientist · AI/ML Engineer — Puebla, MX 🇲🇽"
-
+description: "Physicist · Data Scientist · AI/ML Engineer — Puebla, Mexico"
 url: "https://tbyatkdc.github.io"
 baseurl: ""
 
 # Autor
 author: Brandon Yahir Arriaga Tlapa
-avatar: /img/profile.png  # <-- sube aquí tu foto (cuadrada, mínimo 400x400px)
+avatar: /img/profile.png
 
 # ---- Navbar ----
 navbar-links:
-  Sobre mí: aboutme
-  Proyectos: projects
-  Contacto: contacto
+  About: aboutme
+  Projects: projects
+  Contact: contacto
 
-navbar-col:        "#0a0a0a"
-navbar-text-col:   "#f0f0f0"
-navbar-border-col: "#1a1a2e"
+navbar-col:        "#0d1117"
+navbar-text-col:   "#c9d1d9"
+navbar-border-col: "#21262d"
 
 # ---- Página de inicio ----
 title-img: /img/profile1.png
@@ -33,15 +31,16 @@ social-network-links:
   linkedin: arriaga-brandon-byat
 
 # ---- Footer ----
-footer-col:       "#050505"
-footer-text-col:  "#888888"
-footer-link-col:  "#4fc3f7"
+footer-col:       "#0d1117"
+footer-text-col:  "#8b949e"
+footer-link-col:  "#58a6ff"
 
 # ---- Colores generales ----
 page-col:        "#ffffff"
-text-col:        "#222222"  # Un gris muy oscuro cansa menos la vista que el negro absoluto
-link-col:        "#005bb5"  # Un azul más profesional y eléctrico
-hover-col:       "#003f7a"
+text-col:        "#1c1c1e"
+link-col:        "#0969da"
+hover-col:       "#0550ae"
+
 # ---- Posts / Blog ----
 paginate:           5
 paginate_path:      "/blog/page:num/"
