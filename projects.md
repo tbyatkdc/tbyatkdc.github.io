@@ -1,50 +1,61 @@
 ---
 layout: page
 title: Proyectos
-subtitle: "Del problema al modelo — casos reales"
+subtitle: "Implementación de sistemas de aprendizaje automático y análisis de datos"
 ---
 
-## 🤖 AI Reasoning & Evaluation System
-**LLM Evaluation · Structured Reasoning · Statistical Validation**
-*Mercor — STEM & Safety Tracks*
+## Consultoría en Modelado Predictivo y Análisis de Datos
+**Machine Learning Aplicado · Regresión & Clasificación · Pipeline Optimization**
 
-Diseño y evaluación de prompts multi-paso de alta complejidad para diagnosticar si los modelos de lenguaje de frontera realizan razonamiento estructurado genuino o aproximación estadística superficial.
+Desarrollo de soluciones analíticas y modelos predictivos para la resolución de problemas de negocio en empresas del sector tecnológico, bajo un esquema de consultoría técnica remota.
 
-**Lo que hice:**
-- Construí baterías de evaluación para modelos en dominios de matemáticas, física y seguridad.
-- Validé outputs estructurados (código, derivaciones matemáticas, argumentos científicos) identificando modos de falla sistemáticos.
-- Apliqué análisis causal para calibrar estándares de QC entre cohortes de anotadores, mejorando la consistencia de los datos de preferencia usados en pipelines RLHF.
+**Componentes clave:**
+- Diseño de pipelines de preprocesamiento y limpieza de datos para transformar conjuntos de datos crudos en inputs optimizados para modelos de Machine Learning.
+- Desarrollo y validación de modelos supervisados (clasificación y regresión) para la identificación de patrones y tendencias en datasets del mundo real.
+- Generación de reportes técnicos detallados y visualizaciones estratégicas para la comunicación de hallazgos y métricas de desempeño a equipos multidisciplinarios.
 
-**Stack:** Python · Prompt Engineering (CoT, ToT) · Causal Reasoning · Statistical Validation
+**Stack:** Python · Pandas · Scikit-Learn · Inferencia Estadística · Matplotlib/Seaborn
 
----
+## Evaluación y Alineación de Modelos de Lenguaje (LLM)
+**Razonamiento Estructurado · Validación Estadística · AI Safety · STEM **
 
-## 📊 Plataforma de HR Analytics
-**Optimización bajo restricciones · Modelado predictivo · Tableau**
+Desarrollo de marcos de evaluación para modelos de lenguaje de frontera, enfocados en la detección de fallos de razonamiento lógico y la consistencia en dominios técnicos de alta complejidad.
 
-Sistema end-to-end de analítica de recursos humanos construido sobre datos sintéticos generados con rigor estadístico.
+**Componentes clave:**
+- Diseño de protocolos de evaluación multi-paso para diagnosticar la capacidad de razonamiento genuino en problemas de física, matemáticas y programación.
+- Identificación y mitigación de modos de falla sistemáticos en outputs estructurados (derivaciones matemáticas y código).
+- Aplicación de métodos estadísticos para la calibración de métricas de calidad en pipelines de alineación (RLHF), asegurando la integridad de los datos de preferencia.
 
-**Lo que hice:**
-- Motor de generación de datos sintéticos (+8,000 registros) usando distribuciones probabilísticas y muestreo bajo restricciones — habilitando entrenamiento de modelos ML con privacidad garantizada.
-- Dashboards ejecutivos en Tableau para monitoreo en tiempo real de KPIs: Churn Rate, Brecha Salarial, Retención.
-- Modelos predictivos de rotación de personal con explicabilidad (feature importance).
-
-**Stack:** Python · Tableau · Modelado probabilístico · Scikit-Learn
+**Stack:** Python · Prompt Engineering (CoT, ToT) · Inferencia Estadística · Validación de Modelos
 
 ---
 
-## 🏠 Modelo de Pricing Inmobiliario
-**Regression · Feature Engineering · SQL · ML**
+## Modelado Predictivo de Pricing Inmobiliario
+**Regresión Avanzada · Ingeniería de Características · SQL**
 
-Pipeline completo de predicción de precios sobre un dataset de +20,000 propiedades.
+Arquitectura de un pipeline de extremo a extremo para la predicción de precios sobre un dataset de +20,000 registros de propiedades, optimizado para robustez estadística.
 
-**Lo que hice:**
-- Ingeniería de características y normalización avanzada en SQL, con schema optimizado para consumo ML.
-- Implementación de regresión log-lineal con transformaciones estabilizadoras de varianza para maximizar R² frente a fluctuaciones no lineales del mercado.
-- Modelo listo para producción con análisis de residuos y validación cruzada.
+**Componentes clave:**
+- Implementación de un esquema SQL optimizado para el consumo de modelos de Machine Learning, incluyendo procesos de normalización y transformación de variables.
+- Desarrollo de modelos de regresión con transformaciones log-lineales para estabilizar la varianza y capturar comportamientos no lineales del mercado.
+- Validación del modelo mediante análisis de residuos y cross-validation para garantizar la generalización en entornos de producción.
 
-**Stack:** SQL · Python · Scikit-Learn · Inferencia estadística
+**Stack:** SQL · Python · Scikit-Learn · Inferencia Estadística
 
 ---
 
-> 💡 *Más proyectos y código disponible en [github.com/tbyatkdc](https://github.com/tbyatkdc)*
+## Investigación en Clasificación de Eventos de Partículas
+**Deep Learning · Series de Tiempo · Física de Altas Energías**
+
+Aplicación de arquitecturas de aprendizaje profundo para la identificación y clasificación de señales experimentales en detectores de rayos cósmicos.
+
+**Componentes clave:**
+- Diseño de pipelines ETL para el procesamiento de flujos de datos a gran escala, integrando técnicas de reducción de dimensionalidad.
+- Análisis comparativo de arquitecturas Transformer, CNN y RNN para la extracción de características en series de tiempo experimentales.
+- Optimización de modelos de ensamble (Gradient Boosting) para superar las líneas base de detección estadística convencional.
+
+**Stack:** PyTorch · Python · Pandas · Arquitecturas Transformer
+
+---
+
+> Más proyectos y código disponible en [github.com/tbyatkdc](https://github.com/tbyatkdc)
